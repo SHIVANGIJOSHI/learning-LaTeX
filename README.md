@@ -1,2 +1,4 @@
 # learning-LaTeX
-This repository contains the basic commands and some class files for LaTeX. This repository will help me keep track of my learning-pace.
+This repository contains the class file created by me for my LaTeX Resume. Also includes sample file and tex file...
+fork it !!!
+Hope it helps!!!
